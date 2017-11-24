@@ -9,5 +9,6 @@ int main() {
     std::cout<<1e-2<<'\a'<<std::endl;
     std::cout << "\7Hello,"\
             " World!" << std::endl;
+    std::cout<<"test git"<<std::endl;
     return 0;
 }
